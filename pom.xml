@@ -9,6 +9,15 @@
   <description>A library to extract bot, browser, device and OS from a User-Agent in Java 6 or newer.</description>
   <url>https://github.com/pieroxy/java-user-agent-detection/</url>
 
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.12</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+
   <licenses>
     <license>
         <name>WTFPL</name>
